@@ -7,3 +7,6 @@
 [Graded_assignment1 (Week 6)](https://github.com/Dubbeldip/assignments/blob/master/Graded_assignment1.ipynb)
 
 [Graded_assignment2 (Week 7)](https://github.com/Dubbeldip/assignments/blob/master/Graded_assignment_2.ipynb)
+
+
+[Python final assignment) https://github.com/Dubbeldip/assignments/blob/master/exam_june_7_2018%20(1).ipynb
